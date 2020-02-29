@@ -96,12 +96,12 @@ const IndexPage = () => (
       <section id="first">
         <header>
           <h2>
-           <a href="https://github.com/app-generator/gatsby-html5up-paradigm">Open-Source</a>
+            Despre noi
           </h2>
         </header>
         <div className="content">
           <p>
-            Blazing fast <strong>Gatsby Starter</strong> coded on top of a beautiful design crafted by HtML5 Up agency.
+            Unitate de invatamant pentru ciclul primar, care ofera program prelungit si masa. 
           </p>
           <span className="image main">
             <img src={pic2} alt="" />
@@ -111,33 +111,29 @@ const IndexPage = () => (
 
       <section>
         <header>
-          <h2>Feugiat consequat tempus ultrices</h2>
+          <h2>Contact</h2>
         </header>
         <div className="content">
           <p>
-            <strong>Etiam tristique libero</strong> eu nibh porttitor amet
-            fermentum. Nullam venenatis erat id vehicula ultrices sed ultricies
-            condimentum.
+            In casul in care doriti sa intrati <strong>in contact</strong> cu noi, o puteti face prin telefon sau email. Program Lu-Vi, 9.00 - 16.00.
           </p>
           <ul className="feature-icons">
-            <li className="icon fa-laptop">Consequat tempus</li>
-            <li className="icon fa-bolt">Etiam adipiscing</li>
-            <li className="icon fa-signal">Libero nullam</li>
-            <li className="icon fa-gear">Blandit condimentum</li>
-            <li className="icon fa-map-marker">Lorem ipsum dolor</li>
-            <li className="icon fa-code">Nibh amet venenatis</li>
+            <li className="icon fa-phone"> 
+              <a href="tel:0769667334">0769667334</a>
+            </li>
+            
+            <li className="icon fa-envelope">
+              <a href="mailto:contact@gradinita-veseliei.ro">contact@gradinita-veseliei.ro</a>
+            </li>
           </ul>
           <p>
-            Vehicula ultrices sed ultricies condimentum. Magna sed etiam
-            consequat, et lorem adipiscing sed nulla. Volutpat nisl et tempus et
-            dolor libero, feugiat magna tempus, sed et lorem adipiscing.
           </p>
         </div>
       </section>
 
       <section>
         <header>
-          <h2>Ultrices erat magna sed condimentum</h2>
+          <h2>Proiecte</h2>
         </header>
         <div className="content">
           <p>
@@ -147,39 +143,7 @@ const IndexPage = () => (
 
           <section>
             <header>
-              <h3>Erat aliquam</h3>
-              <p>
-                Vehicula ultrices dolor amet ultricies et condimentum. Magna sed
-                etiam consequat, et lorem adipiscing sed dolor sit amet,
-                consectetur amet do eiusmod tempor incididunt ipsum suspendisse
-                ultrices gravida.
-              </p>
-            </header>
-            <div className="content">
-              <Gallery images={img_set_1} />
-            </div>
-          </section>
-
-          <section>
-            <header>
-              <h3>Nisl consequat</h3>
-              <p>
-                Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin
-                aliquam sed facilisis ante interdum congue. Integer mollis, nisl
-                amet convallis, porttitor magna ullamcorper, amet mauris. Ut
-                magna finibus nisi nec lacinia ipsum maximus.
-              </p>
-            </header>
-            <div className="content">
-              <div className="gallery">
-                <Gallery images={img_set_2} />
-              </div>
-            </div>
-          </section>
-
-          <section>
-            <header>
-              <h3>Lorem gravida</h3>
+              <h3>Proiect 1</h3>
               <p>
                 Proin aliquam facilisis ante interdum. Sed nulla amet lorem
                 feugiat tempus aenean ornare velit lacus, ac varius sed enim
@@ -193,30 +157,7 @@ const IndexPage = () => (
               </div>
             </div>
           </section>
-        </div>
-      </section>
 
-      <section>
-        <header>
-          <h2>Duis sed adpiscing veroeros amet</h2>
-        </header>
-        <div className="content">
-          <p>
-            <strong>Elements</strong> This starter contains all elements for a
-            page. Check it out
-          </p>
-          <ul className="actions">
-            <li>
-              <Link to="/Elements" className="button primary large">
-                Goto Elements Page
-              </Link>
-            </li>
-            {/* <li>
-              <a href="/#" className="button large">
-                Learn More
-              </a>
-            </li> */}
-          </ul>
         </div>
       </section>
 

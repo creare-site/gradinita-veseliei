@@ -1,40 +1,22 @@
-# [GatsbyJS Paradigm](https://appseed.us/apps/gatsbyjs/gatsby-html5up-paradigm)
+# [Gradinita Veseliei](https://gradinita-veseliei.ro/)
 
-Open-source app built with GatsbyJS on top of HTML5Up Paradigm design. 
-
-<br />
-
-![GatsbyJS Paradigm - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-html5up-paradigm-intro.gif?raw=true)
+Gradinita Veseliei din Navodari - Site Oficial.  
 
 <br />
 
-## App Links
+## Link-uri
 
-- [GatsbyJS Paradigm](https://gatsby-html5up-paradigm.appseed.us) - live demo
-
-<br />
-
-## How to use it
-- Clone this repo `git clone https://github.com/app-generator/gatsby-html5up-paradigm.git`
-- change directory to `gatsby-html5up-paradigm`
-- `yarn` - install modules
-- `yarn start` - start for development
-- `yarn build` - build for production
+- [Gradinita Veseliei](https://gradinita-veseliei.ro/) - adresa site oficial
+- [Gradinita Veseliei](https://gradinita-veseliei.ro/) - Blog
+- Pagina [Facebook](https://www.facebook.com/gradinita.veselieinavodari) 
 
 <br />
 
-## Support
+## Contact
 
-Please access the official [Support](https://appseed.us/support) page provided by **AppSeed**
-
-<br />
-
-## Resources
- 
- - [GatsbyJS](https://www.gatsbyjs.org/)
- - More [GatsbyJS Apps](https://appseed.us/apps/gatsbyjs)
+- eMail < contact@gradinita-veseliei.ro >
 
 <br />
 
 ---
-[GatsbyJS Paradigm](https://appseed.us/apps/gatsbyjs/gatsby-html5up-paradigm) provided by **AppSeed**
+[Gradinita Veseliei](https://gradinita-veseliei.ro/) - Un produs [WebsiteMarket](https://websitemarket.ro/)

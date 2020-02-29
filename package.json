@@ -1,14 +1,14 @@
 {
-  "name": "gatsby-starter-paradigmshift",
-  "version": "0.0.1",
+  "name": "site-gradinita-veseliei-navodari",
+  "version": "1.0.0",
   "description": "Gatsby.js V2 starter template based on Paradigm Shift by HTML5 UP",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-paradigmshift.git"
+    "url": "git+https://github.com/creare-site/gradinita-veseliei.git"
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "WebsiteMarket",
+    "email": "hello@websitemarket.ro"
   },
   "dependencies": {
     "ftp-deploy": "^2.3.3",
@@ -49,7 +49,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-paradigmshift/issues"
+    "url": "creare-site/gradinita-veseliei/issues"
   },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-paradigmshift#readme"
+  "homepage": "https://gradinita-veseliei.ro"
 }
