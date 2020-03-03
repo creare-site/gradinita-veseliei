@@ -6,7 +6,10 @@ export default function Header() {
   return (
     <header>
       <h1>{config.heading}</h1>
-      <p>{config.subHeading}</p>
+      <p>{config.subHeading}
+      <br />
+      <a href="https://blog.gradinita-veseliei.ro/">Blog</a> - <a href="#contact">Contact</a>
+      </p>
       <ul className="actions">
         <li>
           <Scroll type="id" element="first">

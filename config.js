@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-paradigmshift/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'Gradinita Veseliei',
-  subHeading: 'Gradinita cu program prelungit din Navodari.',
+  subHeading: 'Gradinita cu program prelungit.',
   // social
   socialLinks: [
     {
@@ -18,14 +18,14 @@ module.exports = {
       url: 'https://www.facebook.com/gradinita.veselieinavodari',
     },
     {
-      icon: 'fa-github',
-      name: 'Github',
-      url: 'https://github.com/creare-site/gradinita-veseliei',
-    },
-    {
       icon: 'fa-rss',
       name: 'Blog',
       url: 'https://blog.gradinita-veseliei.ro',
+    },
+    {
+      icon: 'fa-github',
+      name: 'Github',
+      url: 'https://github.com/creare-site/gradinita-veseliei',
     }
   ],
   emailId: 'support@appseed.us',

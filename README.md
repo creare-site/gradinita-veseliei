@@ -6,8 +6,8 @@ Gradinita Veseliei din Navodari - Site Oficial.
 
 ## Link-uri
 
-- [Gradinita Veseliei](https://gradinita-veseliei.ro/) - adresa site oficial
-- [Gradinita Veseliei](https://gradinita-veseliei.ro/) - Blog
+- [Gradinita Veseliei](https://gradinita-veseliei.ro/) - Site oficial
+- [Gradinita Veseliei](https://blog.gradinita-veseliei.ro/) - Blog modern pe platforma Ghost
 - Pagina [Facebook](https://www.facebook.com/gradinita.veselieinavodari) 
 
 <br />

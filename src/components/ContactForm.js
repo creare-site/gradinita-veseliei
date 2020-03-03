@@ -7,7 +7,8 @@ export default function ContactForm() {
       </header>
       <div className="content">
         <p>
-          <strong>Putem comunica</strong> si pe <a href="https://www.facebook.com/gradinita.veselieinavodari">Facebook</a> sau <a href="https://blog.gradinita-veseliei.ro/">blog</a>. 
+          <strong>Intra in contact cu noi</strong> pe <a href="https://www.facebook.com/gradinita.veselieinavodari">Facebook</a> 
+          {' '}sau citeste mai mult pe <a href="https://blog.gradinita-veseliei.ro/">Blog</a>. 
         </p>
       </div>
     </>

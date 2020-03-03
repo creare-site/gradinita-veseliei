@@ -9,3 +9,7 @@ yarn.lock
 /public
 .DS_Store
 deploy.js
+*.psd
+
+# Themes
+blog-themes/liebling/
