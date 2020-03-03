@@ -15,20 +15,20 @@ const img_set_3 = [
   {
     src: require('../assets/images/gallery/fulls/08.jpg'),
     thumbnail: require('../assets/images/gallery/thumbs/08.jpg'),
-    title: 'Give away',
-    desc: 'Be one with the empathy',
+    title: 'Dăruiește un zâmbet',
+    desc: 'O initiativa Gradinita Veseliei Navodari.',
   },
   {
     src: require('../assets/images/gallery/fulls/09.jpg'),
     thumbnail: require('../assets/images/gallery/thumbs/09.jpg'),
-    title: 'Moment',
-    desc: 'Be one with the moment',
+    title: 'Dăruiește un zâmbet',
+    desc: 'O initiativa Gradinita Veseliei Navodari.',
   },
   {
     src: require('../assets/images/gallery/fulls/10.jpg'),
     thumbnail: require('../assets/images/gallery/thumbs/10.jpg'),
-    title: 'Serenity',
-    desc: 'Be one with the purity',
+    title: 'Dăruiește un zâmbet',
+    desc: 'O initiativa Gradinita Veseliei Navodari.',
     full: true,
   },
 ];
