@@ -1,6 +1,6 @@
 # [Gradinita Veseliei](https://gradinita-veseliei.ro/)
 
-Gradinita Veseliei din Navodari - Site Oficial.  
+Gradinita Veseliei din Navodari - Site Oficial. Proiect oferit de [Invat.eu](https://invat.eu).  
 
 <br />
 
@@ -19,4 +19,4 @@ Gradinita Veseliei din Navodari - Site Oficial.
 <br />
 
 ---
-[Gradinita Veseliei](https://gradinita-veseliei.ro/) - Un produs [WebsiteMarket](https://websitemarket.ro/)
+[Gradinita Veseliei](https://gradinita-veseliei.ro/) - Oferit de [Invat.eu](https://invat.eu).
