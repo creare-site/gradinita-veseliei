@@ -8,7 +8,11 @@ export default function Header() {
       <h1>{config.heading}</h1>
       <p>{config.subHeading}
       <br />
-      <a href="https://blog.gradinita-veseliei.ro/">Blog</a> - <a href="#contact">Contact</a>
+      <a href="https://blog.gradinita-veseliei.ro/">Blog</a> - {' '} 
+      <Scroll type="id" element="contact">
+        <a href="#contact">Contact</a>
+      </Scroll>
+
       </p>
       <ul className="actions">
         <li>

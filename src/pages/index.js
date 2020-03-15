@@ -52,7 +52,7 @@ const IndexPage = () => (
         </header>
         <div className="content">
           <p>
-            Unitate de invatamant pentru ciclul primar, care ofera program prelungit si masa. 
+            Unitate de invatamant pentru ciclul prescolar, care ofera program prelungit si masa. 
           </p>
           <span className="image main">
             <img src={pic2} alt="" />
@@ -70,7 +70,7 @@ const IndexPage = () => (
           </p>
           <ul className="feature-icons">
             <li className="icon fa-phone"> 
-              <a href="tel:0769667334">0769667334</a>
+              <a href="tel:0761338098">0761338098</a>
             </li>
             
             <li className="icon fa-envelope">
