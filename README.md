@@ -4,6 +4,10 @@ Gradinita Veseliei din Navodari - Site Oficial. Proiect oferit de [Invat.eu](htt
 
 <br />
 
+![Gradinita Veseliei Navodari - Unitate Scolara Invatamant primar.](https://raw.githubusercontent.com/creare-site/static/master/invat-eu/gradinita-veseliei-navodari.png)
+
+<br />
+
 ## Link-uri
 
 - [Gradinita Veseliei](https://gradinita-veseliei.ro/) - Site oficial
