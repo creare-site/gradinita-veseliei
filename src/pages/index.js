@@ -66,7 +66,7 @@ const IndexPage = () => (
         </header>
         <div className="content">
           <p>
-            In casul in care doriti sa intrati <strong>in contact</strong> cu noi, o puteti face prin telefon sau email. Program Lu-Vi, 9.00 - 16.00.
+            In cazul in care doriti sa intrati <strong>in contact</strong> cu noi, o puteti face prin telefon sau email. Program Lu-Vi, 9.00 - 16.00.
           </p>
           <ul className="feature-icons">
             <li className="icon fa-phone"> 
@@ -75,6 +75,48 @@ const IndexPage = () => (
             
             <li className="icon fa-envelope">
               <a href="mailto:contact@gradinita-veseliei.ro">contact@gradinita-veseliei.ro</a>
+            </li>
+          </ul>
+          <p>
+          </p>
+        </div>
+      </section>
+
+      <section id="contact">
+        <header>
+          <h2>Inscriere 2020/2021</h2>
+        </header>
+        <div className="content">
+          <p>
+            <strong>PRIMA ETAPĂ 09.06 -03.07.2020</strong>
+            <br />
+            09.06 - 26.06.2020 – Colectare cereri 
+            <br />
+            26.06 - 03.07.2020 – Procesare cereri
+          </p>
+
+          <p>
+            <strong>A DOUA ETAPĂ DE ÎNSCRIERE 20.07-10.08.2020 (dacă rămân locuri vacante după încheierea primei etape)</strong>
+            <br />
+            20.07 - 31.07.2020 - Colectare cereri 
+            <br />
+            03.08 - 10.08.2020 - Procesare cereri
+            <br />
+            ETAPA DE AJUSTĂRI 11.08-31.08.2020
+          </p>
+
+          <p>
+            Pentru mai multe informații accesați articolul {' '} 
+            <strong>
+            <a href="https://blog.gradinita-veseliei.ro/inscrierea-copiilorla-gradinita-cuprogram-prelungit-veseliei-an-scolar-2020-2021/">
+            ÎNSCRIEREA COPIILOR LA GRĂDINIȚA
+            </a>
+            </strong>.
+          </p>
+          
+          <ul className="feature-icons">
+            <li className="icon fa-download"> 
+              <a href="https://static.gradinita-veseliei.ro/20200601-cerere-inscriere.pdf">Cerere TIP pentru inscriere</a>
             </li>
           </ul>
           <p>
