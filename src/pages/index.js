@@ -70,7 +70,7 @@ const IndexPage = () => (
           </p>
           <ul className="feature-icons">
             <li className="icon fa-phone"> 
-              <a href="tel:0761338098">0761338098</a>
+              <a href="tel:0341454589">0341 454 589</a>
             </li>
             
             <li className="icon fa-envelope">
