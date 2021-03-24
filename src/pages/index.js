@@ -11,6 +11,14 @@ import Gallery from '../components/Gallery';
 import ContactForm from '../components/ContactForm';
 import { Link } from 'gatsby';
 
+const img_100_pov = [{
+    src: require('../assets/images/gallery/100-povesti/100-depovesti-full.png'),
+    thumbnail: require('../assets/images/gallery/100-povesti/100-depovesti-thumb.png'),
+    title: 'Citește-mi 100 de povești',
+    desc: 'O initiativa Asociația OvidiuRo în parteneriat cu Ministerul Educației și Cercetării și Ministerul Culturii.',
+	full: true,
+}, ];
+
 const img_set_3 = [
   {
     src: require('../assets/images/gallery/fulls/08.jpg'),
@@ -82,7 +90,28 @@ const IndexPage = () => (
         </div>
       </section>
 
-      <section id="contact">
+      <section id="avizier">
+        <header>
+          <h2>Avizier</h2>
+        </header>
+        <div className="content">
+          
+		  <p>
+            Sectiune documente publice - Gradinita Veseliei.
+          </p>
+		  
+          <ul className="feature-icons">
+            <li className="icon fa-download"> 
+              <a href="https://static.gradinita-veseliei.ro/202103-stat-personal.pdf" download>Stat Personal pe niveluri de invatamant</a>
+            </li>
+          </ul>
+
+          <p>
+          </p>
+        </div>
+      </section>
+	  
+      <section id="inscriere">
         <header>
           <h2>Inscriere 2020/2021</h2>
         </header>
@@ -130,21 +159,26 @@ const IndexPage = () => (
         </header>
         <div className="content">
           <p>
-            Ne implicam activ in proiecte sociale si educationale.    
+            Ne implicam activ in proiecte sociale si educationale.
           </p>
 
           <section>
             <header>
-              <h3>Ajutoarele Moșului Nicolae</h3>
+              <h3>Citește-mi 100 de povești</h3>
               <p>
-                Proiect desfasurat in perioada 2-6 decembrie - II-a etapă a campaniei "Dăruiește un zâmbet".
-                În ziua de Sf.Nicolae, preșcolarii din Istria, judetul Constanța, ne-au primit în cadru festiv, cu brațele larg deschise, mulțumindu-i, prin noi, lui Moș Nicolae.
-                <strong>Multumim tuturor celor implicati</strong>.
+                Derulat de Asociația OvidiuRo în parteneriat cu Ministerul Educației și Cercetării și Ministerul Culturii, sub egida proiectului „România educată”.
               </p>
             </header>
             <div className="content">
+			
+			  <p>
+				Considerăm că participarea în acest proiect are o contribuție majoră în atingerea misiunii  grădiniței: „Educație pentru toți, educație pentru fiecare”.
+				Urmărim permanent  asigurarea unui act educațional de performanță care să contribuie la formarea unei personalități autonome și creative, 
+				la formarea unor copii sănătoși, creativi, eficienți, activi, cooperanți care să se adapteze ușor la regimul muncii școlare și la orice situație în viață, fiind dovedit faptul că literația este cel mai clar predictor al succesului școlar, iar educația timpurie cea mai eficientă investiție.
+			  </p>			
+			
               <div className="gallery">
-                <Gallery images={img_set_3} />
+                <Gallery images={img_100_pov} />
               </div>
             </div>
           </section>
