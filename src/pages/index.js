@@ -102,7 +102,7 @@ const IndexPage = () => (
 		  
           <ul className="feature-icons">
             <li className="icon fa-download"> 
-              <a href="https://static.gradinita-veseliei.ro/202103-stat-personal.pdf" download>Stat Personal pe niveluri de invatamant</a>
+              <a href="https://static.gradinita-veseliei.ro/2021-09-stat-personal.pdf" download>Stat Personal pe niveluri de invatamant</a>
             </li>
           </ul>
 
