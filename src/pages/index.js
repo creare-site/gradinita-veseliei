@@ -104,6 +104,13 @@ const IndexPage = () => (
             <li className="icon fa-download"> 
               <a href="https://static.gradinita-veseliei.ro/2021-09-stat-personal.pdf" download>Stat Personal pe niveluri de invatamant</a>
             </li>
+            <li>
+              <br />
+            </li>
+            <li className="icon fa-download"> 
+              <a href="https://static.gradinita-veseliei.ro/2022-03-31-transparenta-salariala.pdf" download>Transparenta Salariala - 2022-03-31</a>
+            </li>
+
           </ul>
 
           <p>
