@@ -105,15 +105,19 @@ const IndexPage = () => (
             <li className="icon fa-download"> 
               <a href="https://static.gradinita-veseliei.ro/mobilitate-personal-2024-2025.pdf" download>Mobilitatea Personalului Didactic 2024-2025</a>
             </li>
-            <br />
+            <li>
+              <br />
+            </li>
 
             <li className="icon fa-download"> 
               <a href="https://static.gradinita-veseliei.ro/2021-09-stat-personal.pdf" download>Stat Personal pe niveluri de invatamant</a>
             </li>
-            <br />
+            <li>
+              <br />
+            </li>
             
             <li className="icon fa-download"> 
-              <a href="https://static.gradinita-veseliei.ro/transparenta-salariala.pdf" download>Transparenta Salariala (actualizat 2023-10-04)</a>
+              <a href="https://static.gradinita-veseliei.ro/transparenta-salariala.pdf" download>Transparenta Salariala (actualizat 2024-03-22)</a>
             </li>
 
           </ul>
