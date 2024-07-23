@@ -102,6 +102,14 @@ const IndexPage = () => (
 		  
           <ul className="feature-icons">
 
+           <li className="icon fa-download"> 
+            Grădinița Veseliei scoate la concurs un post de bucătar. Mai multe detalii în {' '}
+            <a href="https://static.gradinita-veseliei.ro/2024-07-concurs-post-bucatar.pdf" download>documentul atașat</a>. 
+            </li>
+            <li>
+              <br />
+            </li>
+
             <li className="icon fa-download"> 
               <a href="https://static.gradinita-veseliei.ro/mobilitate-personal-2024-2025.pdf" download>Mobilitatea Personalului Didactic 2024-2025</a>
             </li>
