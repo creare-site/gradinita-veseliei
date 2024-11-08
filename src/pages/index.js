@@ -102,8 +102,36 @@ const IndexPage = () => (
 		  
           <ul className="feature-icons">
 
+            <li className="icon fa-download"> 
+              <a href="https://static.gradinita-veseliei.ro/regulament-ordine-interioara-2024-2025.pdf" download>Regulament de ordine interioara</a>
+            </li>
+            <li>
+              <br />
+            </li>
+
+            <li className="icon fa-download"> 
+              <a href="https://static.gradinita-veseliei.ro/regulament-organizare-functionare-2024-2025.pdf" download>Regulament de organizare și funcționare</a>
+            </li>
+            <li>
+              <br />
+            </li>
+
+            <li className="icon fa-download"> 
+              <a href="https://static.gradinita-veseliei.ro/hotarari-ca-2024-2025.pdf" download>Hotărâri Consiliul se Administrație</a>
+            </li>
+            <li>
+              <br />
+            </li>       
+
+            <li className="icon fa-download"> 
+              <a href="https://static.gradinita-veseliei.ro/program-activitati-extrascolare-2024-2025.pdf" download>4. Programul activităților extrașcolare</a>
+            </li>
+            <li>
+              <br />
+            </li>                   
+
            <li className="icon fa-download"> 
-            Grădinița Veseliei scoate la concurs un post de bucătar. Mai multe detalii în {' '}
+              Grădinița Veseliei scoate la concurs un post de bucătar. Mai multe detalii în {' '}
             <a href="https://static.gradinita-veseliei.ro/2024-07-concurs-post-bucatar.pdf" download>documentul atașat</a>. 
             </li>
             <li>
