@@ -103,6 +103,13 @@ const IndexPage = () => (
           <ul className="feature-icons">
 
             <li className="icon fa-download"> 
+              <a href="https://static.gradinita-veseliei.ro/hotarari-ca-2024-nov-2025-feb.pdf" download>Hotarari CA 2024.Nov - 2025.Februarie</a>
+            </li>
+            <li>
+              <br />
+            </li>
+
+            <li className="icon fa-download"> 
               <a href="https://static.gradinita-veseliei.ro/regulament-ordine-interioara-2024-2025.pdf" download>Regulament de ordine interioara</a>
             </li>
             <li>
