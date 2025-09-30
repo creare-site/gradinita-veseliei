@@ -29,7 +29,7 @@
   "scripts": {
     "deploy": "gatsby clean && gatsby build && node deploy",
     "deploy_gh": "npm run clean && gatsby build --prefix-paths && gh-pages -d public",
-    "start": "gatsby clean && gatsby develop",
+    "start": "node api.js && gatsby clean && gatsby develop",
     "develop": "gatsby develop",
     "build": "npm run clean && gatsby build",
     "serve": "gatsby serve",
