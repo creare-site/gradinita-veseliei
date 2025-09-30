@@ -160,7 +160,7 @@ const IndexPage = () => (
             </li>
             
             <li className="icon fa-download"> 
-              <a href="https://static.gradinita-veseliei.ro/transparenta-salariala.pdf" download>Transparenta Salariala (actualizat 2024-03-22)</a>
+              <a href="https://static.gradinita-veseliei.ro/transparenta-salariala.pdf" download>Transparenta Salariala (actualizat 2025-09-30)</a>
             </li>
 
           </ul>
